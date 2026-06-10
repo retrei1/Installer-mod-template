@@ -16,16 +16,16 @@
 
 ---
 
-# 🧠 Поддержка
+#  Поддержка
 
 Самая лучшая поддержка — скачать шаблон и сделать свой мод.
 
 Если совсем прижмёт — открой issue на GitHub:
-👉 https://github.com/retrei1/geode-mod-template/issues
+>> https://github.com/retrei1/geode-mod-template/issues
 
 ---
 
-## 🚀 Как установить шаблон (на телефоне)
+##  Как установить шаблон (на телефоне)
 
 1. **Запусти `installer.mod.sh` через Termux**  
    ```bash
